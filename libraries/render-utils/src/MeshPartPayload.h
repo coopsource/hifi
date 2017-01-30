@@ -107,6 +107,7 @@ public:
 
     Model* _model;
 
+    Transform _cauterizedTransform;
     int _meshIndex;
     int _shapeID;
 
